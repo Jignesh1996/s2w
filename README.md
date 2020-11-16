@@ -1,5 +1,11 @@
 
-## Note :
+## Note : For :Aganitha Full Stack and AI Quiz 2020 
+This code is not done by me. While searching for the libraries to do the coding, I stumbled upon this beautiful work. It is difficult to do the coding in such a short time.
+Hence I am forking this repo. I am sure you are aware of this repo.
+
+Thanks and Regards,
+Jignesh.
+
 # s2w
 A reusable library that can convert a paragraph of spoken english to written english.<br>
 For example, "two dollars" should be converted to $2. Abbreviations spoken as "C M" or "Triple A" should be written as "CM" and "AAA" respectively
